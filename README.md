@@ -54,7 +54,7 @@
 3. **Document Automation**
    - Generate legal memos for carbon offset projects
 
-### Setup Guide
+## Setup Guide
 1. Register for API keys:
    - [Gemini Legal API](https://gemini.legal)
    - [Thomson Reuters API](https://developers.thomsonreuters.com)
